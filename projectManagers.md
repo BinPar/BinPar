@@ -43,8 +43,11 @@
 | **Mantenimiento .net** | Marcos Íñigo |
 
 ## ART Madrid
- - **ART Madrid** - Marcos González
- - **Galería BAT** - Marcos González
+
+| Proyecto        | Jefe de Proyecto           | 
+| ------------- |-------------|
+| **ART Madrid** | Marcos González |
+| **Galería BAT** | Marcos González |
 
 ## Axon
  - Julián Querol
