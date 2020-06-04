@@ -36,8 +36,11 @@
 | **NOWO** | Cristian Álvarez |
 
 ## JTQ (Oro)
- - **Mantenimiento .net** - Marcos Íñigo
- - **Migración a nueva tecnología** - Beatríz Ortega 
+
+| Proyecto        | Jefe de Proyecto           | 
+| ------------- |-------------|
+| **Migración a nueva tecnología** | Beatríz Ortega |
+| **Mantenimiento .net** | Marcos Íñigo |
 
 ## ART Madrid
  - **ART Madrid** - Marcos González
