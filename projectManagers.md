@@ -45,7 +45,6 @@
 ## ART Madrid
  - **ART Madrid** - Marcos González
  - **Galería BAT** - Marcos González
- 
 
 ## Axon
  - Julián Querol
@@ -56,9 +55,6 @@
 
 ## Ad Server
  - Marcos González
-
-## Gala
- - Alberto Blanco
   
 ## iUrisfy
  - Marcos González
@@ -86,6 +82,8 @@
 | Generación X | Marcos Íñigo |
 | SATCOM Magic | Marcos Íñigo |
 | Guadalingo | Marcos Íñigo |
+| Gala | Alberto Blanco |
+
 
 ## Departamento de BiBooks
 
