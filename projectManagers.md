@@ -46,8 +46,6 @@
  - **ART Madrid** - Marcos González
  - **Galería BAT** - Marcos González
  
-## Guadalingo
- - Marcos Íñigo
 
 ## Axon
  - Julián Querol
@@ -87,6 +85,7 @@
 | MSM | Marcos Íñigo | 
 | Generación X | Marcos Íñigo |
 | SATCOM Magic | Marcos Íñigo |
+| Guadalingo | Marcos Íñigo |
 
 ## Departamento de BiBooks
 
