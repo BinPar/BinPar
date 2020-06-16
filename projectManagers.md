@@ -82,7 +82,6 @@
 | Furuno | Marcos Íñigo |
 | NieveFX | Marcos Íñigo |
 | MSM | Marcos Íñigo | 
-| Generación X | Marcos Íñigo |
 | SATCOM Magic | Marcos Íñigo |
 | Guadalingo | Marcos Íñigo |
 | Gala | Alberto Blanco |
@@ -117,4 +116,5 @@
 | SEGO | Marcos Iñigo |
 | CEDRO | Marcos Iñigo |
 | Arkeyvata | Marcos Íñigo | 
+| Generación X | Marcos Íñigo |
 
