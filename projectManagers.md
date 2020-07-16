@@ -105,7 +105,7 @@
 | Justicia | Cristian Álvarez | Cristian Álvarez |
 | Penguin Random House | Alberto Blanco | Alberto Blanco |
 | Yoleo | Jorge Bodega | Jorge Bodega |
-
+| Eliburutegia | Cristian Alvarez | Cristian Alvarez |
 
 ## Proyectos legacy
 
