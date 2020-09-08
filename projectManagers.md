@@ -7,7 +7,7 @@
 | Proyecto        | Jefe de Proyecto           | 
 | ------------- |-------------|
 | **Nueva web** | Cristian Álvarez |
-| **DF** | Miguel Rodríguez |
+| **DF** | Beatríz Ortega |
 | **MiEureka** | Stefany Fernández |
 | **Anatomía 3D** | Pendiente de reasignar |
 | **MegaSimulacro** | Verónica Celemín |
