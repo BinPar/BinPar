@@ -91,7 +91,7 @@
 
 | Proyecto        | Jefe de Proyecto           | Comunicación  |
 | ------------- |-------------| -----|
-| Read Garden | Esther Vega | - |
+| Read Garden | Alberto Blanco | - |
 | Olivarera | Esther Vega | Marcos Íñigo |
 | Sanborns | Esther Vega | Marcos Íñigo |
 | Edinumen | Marcos Íñigo | Marcos Íñigo |
