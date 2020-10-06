@@ -81,7 +81,6 @@
 | Síntesis | Maxi Peralta |
 | AEDV | Águeda Gamez |
 | Furuno | Marcos Íñigo |
-| NieveFX | Marcos Íñigo |
 | MSM | Marcos Íñigo | 
 | SATCOM Magic | Marcos Íñigo |
 | Guadalingo | Marcos Íñigo |
@@ -119,4 +118,5 @@
 | CEDRO | Marcos Iñigo |
 | Arkeyvata | Marcos Íñigo | 
 | Generación X | Marcos Íñigo |
+| NieveFX | Marcos Íñigo |
 
