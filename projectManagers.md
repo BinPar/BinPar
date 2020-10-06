@@ -40,7 +40,7 @@
 | Proyecto        | Jefe de Proyecto           | 
 | ------------- |-------------|
 | **Migración a nueva tecnología** | Beatríz Ortega |
-| **Mantenimiento .net** | Marcos Íñigo |
+| **Mantenimiento .net** | Maxi Peralta |
 
 ## ART Madrid
 
@@ -51,6 +51,7 @@
 
 ## Axon
  - Julián Querol
+ - Comunicación: Cristian Álvarez
 
 ## Smart Discovery
  - **Reale** - Marcos González
@@ -77,7 +78,7 @@
 
 | Proyecto        | Jefe de Proyecto |
 | ------------- |-------------|
-| Síntesis | Marcos Íñigo |
+| Síntesis | Maxi Peralta |
 | AEDV | Águeda Gamez |
 | Furuno | Marcos Íñigo |
 | NieveFX | Marcos Íñigo |
@@ -92,20 +93,20 @@
 | Proyecto        | Jefe de Proyecto           | Comunicación  |
 | ------------- |-------------| -----|
 | Read Garden | Alberto Blanco | - |
-| Olivarera | Esther Vega | Marcos Íñigo |
-| Sanborns | Esther Vega | Marcos Íñigo |
-| Edinumen | Marcos Íñigo | Marcos Íñigo |
-| Grupo A | Esther Vega | Marcos Íñigo |
-| UNE | Marcos Íñigo | Marcos Íñigo |
-| Informa | Marcos Íñigo | Marcos Íñigo |
+| Olivarera | Esther Vega | - |
+| Sanborns | Esther Vega | Alberto Blanco |
+| Edinumen | Miguel Rodríguez | Miguel Rodríguez |
+| Grupo A | Esther Vega | Miguel Rodríguez |
+| UNE | Miguel Rodríguez | Miguel Rodríguez |
+| Informa | Cristian Álvarez | Cristian Álvarez |
 | Piccin | Águeda Gámez | Águeda Gámez |
 | BiBOOKS EMP | Águeda Gámez | Águeda Gámez |
 | UPC | Esther Vega | Esther Vega |
 | Buscalibre | Beatríz Ortega | Beatríz Ortega |
-| Justicia | Cristian Álvarez | Cristian Álvarez |
 | Penguin Random House | Alberto Blanco | Alberto Blanco |
-| Yoleo | Jorge Bodega | Jorge Bodega |
+| Yoleo | Alberto Blanco | Alberto Blanco |
 | Eliburutegia | Cristian Alvarez | Cristian Alvarez |
+| Justicia | Cristian Álvarez | Cristian Álvarez |
 
 ## Proyectos legacy
 
