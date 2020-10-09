@@ -95,7 +95,7 @@
 | Olivarera | Esther Vega | - |
 | Sanborns | Esther Vega | Alberto Blanco |
 | Edinumen | Miguel Rodríguez | Miguel Rodríguez |
-| Grupo A | Esther Vega | Miguel Rodríguez |
+| Grupo A | Miguel Rodríguez | Miguel Rodríguez |
 | UNE | Miguel Rodríguez | Miguel Rodríguez |
 | Informa | Cristian Álvarez | Cristian Álvarez |
 | Piccin | Águeda Gámez | Águeda Gámez |
