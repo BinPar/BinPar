@@ -98,7 +98,7 @@
 | Grupo A | Miguel Rodríguez | Miguel Rodríguez |
 | UNE | Miguel Rodríguez | Miguel Rodríguez |
 | Informa | Cristian Álvarez | Cristian Álvarez |
-| Piccin | Águeda Gámez | Águeda Gámez |
+| Piccin | Miguel Rodríguez | Miguel Rodríguez |
 | BiBOOKS EMP | Águeda Gámez | Águeda Gámez |
 | UPC | Esther Vega | Esther Vega |
 | Buscalibre | Beatríz Ortega | Beatríz Ortega |
