@@ -63,6 +63,9 @@
 ## iUrisfy
  - Marcos González
 
+## IE
+ - Stefany Fernández
+
 ## BinPar
 
 | Proyecto        | Jefe de Proyecto |
