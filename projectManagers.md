@@ -86,7 +86,7 @@
 | Furuno | Marcos Íñigo |
 | MSM | Marcos Íñigo | 
 | SATCOM Magic | Marcos Íñigo |
-| Guadalingo | Marcos Íñigo |
+| Guadalingo | Maxi Nahuel |
 | Gala | Alberto Blanco |
 
 
@@ -99,7 +99,7 @@
 | Sanborns | Esther Vega | Alberto Blanco |
 | Edinumen | Miguel Rodríguez | Miguel Rodríguez |
 | Grupo A | Miguel Rodríguez | Miguel Rodríguez |
-| UNE | Miguel Rodríguez | Miguel Rodríguez |
+| UNE | Miguel Rodríguez | Maxi Nahuel |
 | Informa | Cristian Álvarez | Cristian Álvarez |
 | Piccin | Miguel Rodríguez | Miguel Rodríguez |
 | BiBOOKS EMP | Águeda Gámez | Águeda Gámez |
