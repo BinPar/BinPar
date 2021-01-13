@@ -99,7 +99,7 @@
 | Sanborns | Esther Vega | Alberto Blanco |
 | Edinumen | Miguel Rodríguez | Miguel Rodríguez |
 | Grupo A | Miguel Rodríguez | Miguel Rodríguez |
-| UNE | Miguel Rodríguez | Maxi Nahuel |
+| UNE | Maxi Nahuel | Maxi Nahuel |
 | Informa | Cristian Álvarez | Cristian Álvarez |
 | Piccin | Miguel Rodríguez | Miguel Rodríguez |
 | BiBOOKS EMP | Águeda Gámez | Águeda Gámez |
