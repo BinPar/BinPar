@@ -7,14 +7,14 @@
 | Proyecto        | Jefe de Proyecto           | 
 | ------------- |-------------|
 | **Nueva web** | Cristian Álvarez |
-| **DF** | Beatríz Ortega |
-| **MiEureka** | Stefany Fernández |
-| **Anatomía 3D** | Pendiente de reasignar |
+| **DF** | Verónica Celemín |
 | **MegaSimulacro** | Verónica Celemín |
-| **APP PostMIR** | Pendiente de reasignar |
+| **Acceso IP referido a EVA** | Verónica Celemín |
+| **MiEureka** | Stefany Fernández |
+| **Anatomía 3D** | Marcos González |
+| **APP PostMIR** | Javier Acero |
 | **APP Medicina de Urgencias** | Stefany Fernández |
 | **EVA Formación** |  Miguel Rodríguez |
-| **Acceso IP referido a EVA** | Verónica Celemín |
 | **Doctor Q** | Stefany Fernández |
 
 ### Mantenimientos
@@ -49,9 +49,14 @@
 | **ART Madrid** | Marcos González |
 | **Galería BAT** | Marcos González |
 
+## Cervantes
+ - Miguel Rodríguez
+
 ## Axon
- - Julián Querol
- - Comunicación: Cristian Álvarez
+ - Alberto Vázquez
+ 
+## ERV
+ - Kevin Muñoz
 
 ## Smart Discovery
  - **Reale** - Marcos González
@@ -71,7 +76,7 @@
 | Proyecto        | Jefe de Proyecto |
 | ------------- |-------------|
 | Framework | Miguel Rodríguez |
-| Nueva Web | Cristian Álvarez |
+| Nueva Web | Stefany Fernández |
 | BinPar Tool | Cristian Álvarez |
 | Backups | Marcos González |
 | Sistemas | Marcos González |
