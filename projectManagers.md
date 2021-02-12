@@ -21,9 +21,9 @@
 
 | Proyecto        | Jefe de Proyecto           | 
 | ------------- |-------------|
-| **Antigua web** | Águeda Gámez |
-| **BiBOOKS** | Águeda Gámez |
-| **Landings** | Águeda Gámez |
+| **Antigua web** | Cecilia Puentes |
+| **BiBOOKS** | Cecilia Puentes |
+| **Landings** | Cecilia Puentes |
 | **PRM** | Nicolás Ariatnousos |
 | **PPD** | Nicolás Ariatnousos |
 | **CRM** | Nicolás Ariatnousos |
